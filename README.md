@@ -1,1 +1,1 @@
-# Go-scraping-sample
+# Go-batch-sample
